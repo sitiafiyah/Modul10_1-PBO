@@ -1,5 +1,7 @@
 # Modul10_1-PBO
 
+Aplikasi ini menggunakan database untuk menyimpan data username dan data siswa yang telah di save pada tabel. <br>
+
 **ScreenShoot Aplikasi :**
 
 **ScreenShoot 1** <br>
